@@ -6,9 +6,9 @@ In this project, the main was to implement Rule-Based approach using VADER model
 ### Rule - based Approach
 VADER analyses a piece of text to see if any of the words from the text are present in the VADER lexicon. It can find the polarity indices using polarity_scores() function.
 The Standard values of compound are given below :
-Positive Sentiment: compound score >= 0.05 
-Neutral Sentiment: compound score > -0.05 and < 0.05 
-Negative Sentiment: compound score <= -0.05
++ Positive Sentiment: compound score >= 0.05
++ Neutral Sentiment: compound score > -0.05 and < 0.05
++ Negative Sentiment: compound score <= -0.05
 
 ### Project Stages
 + STAGE 1: Importing Data
